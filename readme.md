@@ -73,7 +73,7 @@ To contextualize the hybrid system's added complexity, two reference models were
 Model comparison across all 89 sensors was validated using the non-parametric **Friedman test** with **Nemenyi post-hoc** analysis (α = 0.05), implemented via the [`autorank`](https://github.com/sherbold/autorank) library, following the methodology described in Demšar (2006) for statistical comparison of multiple models across multiple datasets.
 
 
-![Texto alternativo](assets/critical_distance_diagram.png)
+![Texto alternativo](assets/critical-distance.png)
 
 
 ## Tech Stack
